@@ -1,0 +1,12 @@
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\bin\Debug\netcoreapp2.1\CreditSuisse.deps.json
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\bin\Debug\netcoreapp2.1\CreditSuisse.runtimeconfig.json
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\bin\Debug\netcoreapp2.1\CreditSuisse.runtimeconfig.dev.json
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\bin\Debug\netcoreapp2.1\CreditSuisse.dll
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\bin\Debug\netcoreapp2.1\CreditSuisse.pdb
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\obj\Debug\netcoreapp2.1\CreditSuisse.csprojAssemblyReference.cache
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\obj\Debug\netcoreapp2.1\CreditSuisse.csproj.CoreCompileInputs.cache
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\obj\Debug\netcoreapp2.1\CreditSuisse.AssemblyInfoInputs.cache
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\obj\Debug\netcoreapp2.1\CreditSuisse.AssemblyInfo.cs
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\obj\Debug\netcoreapp2.1\CreditSuisse.dll
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\obj\Debug\netcoreapp2.1\CreditSuisse.pdb
+C:\TomekProgramy\CreditProjekt\CreditSuisse\CreditSuice\bin\Debug\netcoreapp2.1\appsettings.json
